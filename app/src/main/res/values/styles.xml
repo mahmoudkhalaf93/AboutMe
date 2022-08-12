@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="text_style">
+
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">@dimen/txtsize</item>
+        <item name="android:fontFamily">@font/roboto</item>
+    </style>
+</resources>
